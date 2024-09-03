@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for fastapi-app2 on 2024-09-03T11:07:01+02:00
+# fly.toml app configuration file generated for fastapi-app2-broken-snowflake-408 on 2024-09-03T11:41:15+02:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'fastapi-app2'
+app = 'fastapi-app2-broken-snowflake-408'
 primary_region = 'ams'
 
 [build]
